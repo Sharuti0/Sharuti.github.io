@@ -1,49 +1,36 @@
 # Sharuti.github.io
-# 🚀 Projecte Symfony: [Nom del Projecte]
 
 Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que permet [explicar breument la lògica: gestió d'usuaris, botiga, blog, etc.].
 
-## 📖 Documentació Completa
-Pots consultar els detalls tècnics, diagrames de base de dades i guies d'usuari a la nostra pàgina de documentació:
-👉 **[Enllaç a la teva GitHub Page]** (Ex: https://usuari.github.io/projecte/)
+Portafolis de Sharuti Thakur Singh Singh
+Benvinguts aquest portafolis reflecteix els meus coneixements com a estudiant de Desenvolupament d'Aplicacions Web (DAW) i mostra alguns dels projectes en els quals he treballat fins ara.
 
-## 🛠️ Stack Tècnic
-- **Framework:** Symfony 7.x
-- **Llenguatge:** PHP 8.2+
-- **ORM:** Doctrine
-- **Base de dades:** MariaDB / MySQL
-- **Motor de plantilles:** Twig
+**Descripció General:**
 
-## 🔧 Instal·lació i Posada en Marxa
+Aquest lloc és una pàgina que he desenvolupat utilitzant HTML, CSS i JavaScript. L'objectiu principal és presentar la meva trajectòria professional, les meves habilitats i els projectes que he creat. El disseny és senzill, clar i té navegació fluida i agradable per a l'usuari.
 
-1. **Clonar el repositori:**
-   ```bash
-   git clone [https://github.com/el-teu-usuari/el-teu-projecte.git](https://github.com/el-teu-usuari/el-teu-projecte.git)
-   cd el-teu-projecte
-   ```
+**Habilitats i Eines:**
 
-2. **Instal·lar les dependències de Composer:**
-   ```bash
-   composer install
-   ```
+Frontend: HTML, CSS, JavaScript, Vue.js
+Backend: PHP, Symfony, MySQL
+Disseny d'Interfícies: Figma
+Gestió de Codi: Git, GitHub
 
-3. **Configurar l'entorn:**
-   Copia el fitxer `.env` a `.env.local` i configura la teva cadena de connexió a la base de dades:
-   ```text
-   DATABASE_URL="mysql://usuari:password@127.0.0.1:3306/nom_bd?serverVersion=8.0"
-   ```
+**Principals Projectes Desenvolupats:**
 
-4. **Crear la base de dades i executar migracions:**
-   ```bash
-   php bin/console doctrine:database:create
-   php bin/console doctrine:migrations:migrate
-   ```
-
-5. **Aixecar el servidor local:**
-   ```bash
-   symfony serve
-   ```
+1. Joyazo
+Descripció: Un projecte final de DAW que consisteix en una botiga online amb un sistema de personalització de productes(projecte no acabat, només el landing del projecte)
+Tecnologies: HTML, CSS, JavaScript
+Funcionalitats: Catàleg de productes, personalització en temps real, i navegació dinàmica.
+2. Parfum de Lune
+Descripció: Aplicació de comerç electrònic dedicada a la venda de perfums. Ofereix una experiència de compra elegant i fàcil d'utilitzar.
+Tecnologies: HTML, CSS, JavaScript, PHP, MySQL
+Funcionalitats: Navegació per categories, visualització de productes, formularis interactius.
+3. Previsió del Temps
+Descripció: Aplicació web que permet consultar la previsió meteorològica en temps real per qualsevol ciutat mitjançant una API externa.
+Tecnologies: HTML, CSS, JavaScript, API REST
+Funcionalitats: Consultes en temps real de les condicions meteorològiques.
 
 ## ✒️ Autor
-* **Nom:** [El teu nom]
+* **Nom:** Sharuti Thakur Singh Singh
 * **Grup:** 2n DAW - Institut Montilivi
