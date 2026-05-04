@@ -31,6 +31,6 @@ Descripció: Aplicació web que permet consultar la previsió meteorològica en 
 Tecnologies: HTML, CSS, JavaScript, API REST
 Funcionalitats: Consultes en temps real de les condicions meteorològiques.
 
-## ✒️ Autor
+## Autor
 * **Nom:** Sharuti Thakur Singh Singh
 * **Grup:** 2n DAW - Institut Montilivi
