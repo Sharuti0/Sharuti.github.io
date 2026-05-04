@@ -1,6 +1,6 @@
 # Sharuti.github.io
 
-Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**. És una aplicació web que permet [explicar breument la lògica: gestió d'usuaris, botiga, blog, etc.].
+Aquest projecte forma part del mòdul de **Desenvolupament Web en Entorn Servidor (DAW)**.
 
 Portafolis de Sharuti Thakur Singh Singh
 Benvinguts aquest portafolis reflecteix els meus coneixements com a estudiant de Desenvolupament d'Aplicacions Web (DAW) i mostra alguns dels projectes en els quals he treballat fins ara.
