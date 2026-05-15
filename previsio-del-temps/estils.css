@@ -1,0 +1,79 @@
+body {
+    background: linear-gradient(233deg, #8eabe6, #3f4695);
+    color: white;
+    font-family: Ubuntu;
+}
+img{
+    width: 40px;
+}
+#ubicacio-container img{
+    width: 40px;
+    color: #e7a9a9;
+    cursor: pointer;
+}
+#ubicacio-container img:hover{
+    width: 43px;
+}
+#ubicacio-container{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+#ubicacio-container h1{
+    font-size: 50px;
+}
+#select-Ubicacios{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+#temps-container{
+    width: auto;
+    height: auto;
+    border: 2px solid #b4c7e7;
+    border-radius: 25px;
+    margin-top: 13px;
+    padding: 13px;
+    box-shadow: 0 0 20px #9fb8df, 0 0 50px rgba(100, 130, 200, 0.5);
+    background: linear-gradient(180deg, #a8b9e0, #839bd1);
+    display: flex;
+    justify-content: space-between;
+}
+.info-container{
+    width: 200px;
+    height: 380px;
+    border: 2px solid #cdd8ef;
+    border-radius: 40px;
+    box-shadow: 0 0 15px #b9c8e8, 0 0 30px rgba(0, 0, 100, 0.4);
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+    background: linear-gradient(180deg, #508ad9 0%, #81a8e6 50%, #d7e3f5 100%);
+    text-align: center;
+}
+.info-container [id^="dataHora-"] {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.info-container img {
+    width: 150px;
+    margin: 20px 0;
+}
+
+.info-container [id^="temperatura-"] {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.info-container [id^="humitat-"] {
+    font-size: 16px;
+    margin-top: 5px;
+}
